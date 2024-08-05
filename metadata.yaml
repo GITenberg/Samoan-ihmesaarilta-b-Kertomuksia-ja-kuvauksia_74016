@@ -1,0 +1,39 @@
+_repo: Samoan-ihmesaarilta-b-Kertomuksia-ja-kuvauksia_74016
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2024-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74016'
+language: fi
+pgterms:marc905: 20240626014137anonymous
+pgterms:marc906: '1911'
+pgterms:marc907: fi
+production_note: Jari Koivisto
+publication_note: '  $aFinland :$bKansanvalistusseura, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Kansanvalistusseuran nuorisonkirjoja, 13
+subjects:
+- !lcsh 'Samoan Islands'
+- !lcc 'DU'
+- GITenberg
+tableOfContents: Alkusanat -- Samoalainen koti -- Matka Lanutoo järvelle -- Palolon
+  pyydystys -- Samoalaisia tapoja -- Samoalaisten teollisuudesta -- Samoalaisten ajanlasku
+  -- Tatueeraus y.m. tapoja -- Samoan löytö ja nimi -- Samoalainen luomistaru -- Käynti
+  suurilla palmuistutuksilla -- Tarina uskollisesta ankeriaasta -- Mataafa, samoalaisten
+  kuningas -- Faamun pidot.
+title: 'Samoan ihmesaarilta : $b Kertomuksia ja kuvauksia'
+url: http://www.gutenberg.org/ebooks/74016
